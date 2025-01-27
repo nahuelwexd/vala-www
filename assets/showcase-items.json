@@ -40,5 +40,12 @@
     "url": "https://github.com/linuxmint/timeshift",
     "screenshot_path": "/img/showcase/timeshift.png",
     "description": "System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots."
+  },
+  {
+    "name": "Crown",
+    "icon_path": "icons/showcase/crown.svg",
+    "url": "https://www.crownengine.org",
+    "screenshot_path": "/img/showcase/crown.png",
+    "description": "Crown is a complete and cross-platform game engine designed for flexibility, performance, and fast-iterations."
   }
 ]
